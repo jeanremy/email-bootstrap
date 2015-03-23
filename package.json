@@ -1,0 +1,21 @@
+{
+  "name": "Emailbase",
+  "version": "1.0.0",
+  "description": "A blank Email canvas",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-entity-convert": "^0.0.2",
+    "gulp-inline-css": "^2.0.0",
+    "gulp": "^3.8.11",
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "JR",
+  "license": "ISC"
+}
