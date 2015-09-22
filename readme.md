@@ -6,3 +6,5 @@ Using differents tips found on Campaign Monitor, Litmus, etc.
 
 Using media queries only to make progressive enhancements
 
+Gulp workflow is converting html entities & inlining styles
+
